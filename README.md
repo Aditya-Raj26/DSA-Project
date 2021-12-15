@@ -1,7 +1,7 @@
 # Vehical Parking Management System
 
 ## Introduction
-# Mini DSA-Project made with c langauge.
+Mini DSA-Project made with c langauge.
 
 ## Installation
 # To run this project : 
